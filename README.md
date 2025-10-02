@@ -46,6 +46,8 @@ Android follows a layered architecture with four main layers:
    - Built-in apps (Contacts, Phone, Browser)
    - Third-party apps (from Google Play Store)
 
+
+![](https://github.com/Hanseeka-Dhingana/Mobile-Application-Development/blob/main/assets/android%20architecture.png)
 ---
 
 ## How to Install Android Studio

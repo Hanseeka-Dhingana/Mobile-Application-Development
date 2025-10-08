@@ -2,7 +2,8 @@
 
 ## What is Android?
 
-**Android** is an open-source, Linux-based operating system designed primarily for touchscreen mobile devices such as smartphones and tablets. It's developed by the Open Handset Alliance, led by Google.
+**Android** is an open-source, Linux-based operating system designed primarily for touchscreen mobile devices such as smartphones and tablets. It's developed by the Open Handset Alliance, led by Google. 
+Supported by a rich set of development tools, libraries, and frameworks that help streamline app creation from UI design to performance optimization.
 
 *Key Characteristics:*
 - **Open Source**: Free to use and modify

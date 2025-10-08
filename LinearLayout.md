@@ -6,7 +6,7 @@ A fundamental Android ViewGroup that arranges child views in a single direction 
 ```xml
 <LinearLayout
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
+    android:layout_height="match-parent"
     android:orientation="vertical">
     
     <Button android:text="Button 1"/>

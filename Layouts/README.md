@@ -1,8 +1,8 @@
-#Layout
+# Layout
 A Layout in Android defines how UI elements (Views) are arranged on the screen. It acts as a container that holds and organizes widgets like TextView, Button, EditText, ImageView, etc.
 We can nest the layouts, and therefore we can create arbitrarily complex UIs using a combination of layouts. You can display your contents effectively by using the right combination of layouts.   
 
-> Layout = Structure + Arrangement of UI elements in an Activity or Fragment.
+**Layout = Structure + Arrangement of UI elements in an Activity or Fragment.**
 
 **Layout Inflation**  
 Converting XML layout into View objects in Java/Kotlin using setContentView(R.layout.layout_name)   
